@@ -1,0 +1,44 @@
+[
+    {
+        "ticket_id": "T1",
+        "category_match": true,
+        "urgency_match": true,
+        "route": "human_review",
+        "confidence": 0.95
+    },
+    {
+        "ticket_id": "T2",
+        "category_match": true,
+        "urgency_match": true,
+        "route": "human_review",
+        "confidence": 0.92
+    },
+    {
+        "ticket_id": "T3",
+        "category_match": true,
+        "urgency_match": true,
+        "route": "human_review",
+        "confidence": 0.9
+    },
+    {
+        "ticket_id": "T4",
+        "category_match": true,
+        "urgency_match": true,
+        "route": "human_review",
+        "confidence": 0.94
+    },
+    {
+        "ticket_id": "T5",
+        "category_match": true,
+        "urgency_match": true,
+        "route": "human_review",
+        "confidence": 0.96
+    },
+    {
+        "ticket_id": "T6",
+        "category_match": true,
+        "urgency_match": true,
+        "route": "human_review",
+        "confidence": 0.98
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "T1",
+        "original_text": "I updated my password yesterday but I still can't log in to my account. The reset email works, but after setting a new password it says invalid credentials.",
+        "cleaned_text": "I updated my password yesterday but I still can't log in to my account. The reset email works, but after setting a new password it says invalid credentials.",
+        "char_count": 156,
+        "word_count": 28
+    },
+    {
+        "id": "T2",
+        "original_text": "I withdrew funds two days ago and still don't see them in my bank account. Can you check what's happening?",
+        "cleaned_text": "I withdrew funds two days ago and still don't see them in my bank account. Can you check what's happening?",
+        "char_count": 106,
+        "word_count": 20
+    },
+    {
+        "id": "T3",
+        "original_text": "Your mobile site is slow on my phone and the chart sometimes freezes when I switch tabs.",
+        "cleaned_text": "Your mobile site is slow on my phone and the chart sometimes freezes when I switch tabs.",
+        "char_count": 88,
+        "word_count": 17
+    },
+    {
+        "id": "T4",
+        "original_text": "What documents do I need to verify my account if my address changed recently?",
+        "cleaned_text": "What documents do I need to verify my account if my address changed recently?",
+        "char_count": 77,
+        "word_count": 14
+    },
+    {
+        "id": "T5",
+        "original_text": "Please close my account permanently. I no longer want to use this service.",
+        "cleaned_text": "Please close my account permanently. I no longer want to use this service.",
+        "char_count": 74,
+        "word_count": 13
+    },
+    {
+        "id": "T6",
+        "original_text": "It would be great if dark mode was available in the dashboard.",
+        "cleaned_text": "It would be great if dark mode was available in the dashboard.",
+        "char_count": 62,
+        "word_count": 12
+    }
+]

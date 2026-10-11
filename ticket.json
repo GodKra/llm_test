@@ -1,0 +1,6 @@
+{
+    "ticket_id": "T1",
+    "customer_message": "I updated my password yesterday but I still can't log in to my account. The reset email works, but after setting a new password it says invalid credentials.",
+    "expected_category": "login_access",
+    "expected_urgency": "high"
+}

@@ -1,0 +1,52 @@
+```json
+[
+  {
+    "id": "T1",
+    "category": "login_access",
+    "urgency": "high",
+    "confidence": 0.98,
+    "reasoning_summary": "User is completely locked out of their account due to invalid credentials error after password reset.",
+    "needs_human_review": false
+  },
+  {
+    "id": "T2",
+    "category": "billing",
+    "urgency": "high",
+    "confidence": 0.95,
+    "reasoning_summary": "Involves delayed withdrawal and missing funds transfer to bank account.",
+    "needs_human_review": false
+  },
+  {
+    "id": "T3",
+    "category": "technical_issue",
+    "urgency": "medium",
+    "confidence": 0.96,
+    "reasoning_summary": "Reporting UI performance degradation and freezing charts on mobile site.",
+    "needs_human_review": false
+  },
+  {
+    "id": "T4",
+    "category": "verification",
+    "urgency": "medium",
+    "confidence": 0.97,
+    "reasoning_summary": "User is asking about required identity and address verification documentation.",
+    "needs_human_review": false
+  },
+  {
+    "id": "T5",
+    "category": "account_closure",
+    "urgency": "medium",
+    "confidence": 0.99,
+    "reasoning_summary": "User explicitly requests permanent closure of their account.",
+    "needs_human_review": false
+  },
+  {
+    "id": "T6",
+    "category": "feature_request",
+    "urgency": "low",
+    "confidence": 0.99,
+    "reasoning_summary": "User suggests adding a dark mode feature to the dashboard.",
+    "needs_human_review": false
+  }
+]
+```

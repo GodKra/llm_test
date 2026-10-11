@@ -1,0 +1,110 @@
+[
+    {
+        "stage": "classification",
+        "ticket_id": "T1",
+        "timestamp": "2026-10-11T10:00:04.259882+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "d70f500766fe5d9e01a7b383a45b29beaa3df59f35348e617ede8e23ebe8a7c6",
+        "output_artifact": "artifacts\\T1_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T2",
+        "timestamp": "2026-10-11T10:00:04.280593+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "d70f500766fe5d9e01a7b383a45b29beaa3df59f35348e617ede8e23ebe8a7c6",
+        "output_artifact": "artifacts\\T2_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T3",
+        "timestamp": "2026-10-11T10:00:04.299946+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "d70f500766fe5d9e01a7b383a45b29beaa3df59f35348e617ede8e23ebe8a7c6",
+        "output_artifact": "artifacts\\T3_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T4",
+        "timestamp": "2026-10-11T10:00:04.312294+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "d70f500766fe5d9e01a7b383a45b29beaa3df59f35348e617ede8e23ebe8a7c6",
+        "output_artifact": "artifacts\\T4_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T5",
+        "timestamp": "2026-10-11T10:00:04.328152+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "d70f500766fe5d9e01a7b383a45b29beaa3df59f35348e617ede8e23ebe8a7c6",
+        "output_artifact": "artifacts\\T5_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T6",
+        "timestamp": "2026-10-11T10:00:04.341615+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "d70f500766fe5d9e01a7b383a45b29beaa3df59f35348e617ede8e23ebe8a7c6",
+        "output_artifact": "artifacts\\T6_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T1",
+        "timestamp": "2026-10-11T10:05:04.634975+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "c36d54fdc78e35fba1897f1139b7948104cd05cf72a51f87964adde23e837b16",
+        "output_artifact": "artifacts\\T1_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T2",
+        "timestamp": "2026-10-11T10:05:04.652515+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "c36d54fdc78e35fba1897f1139b7948104cd05cf72a51f87964adde23e837b16",
+        "output_artifact": "artifacts\\T2_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T3",
+        "timestamp": "2026-10-11T10:05:04.663507+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "c36d54fdc78e35fba1897f1139b7948104cd05cf72a51f87964adde23e837b16",
+        "output_artifact": "artifacts\\T3_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T4",
+        "timestamp": "2026-10-11T10:05:04.674621+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "c36d54fdc78e35fba1897f1139b7948104cd05cf72a51f87964adde23e837b16",
+        "output_artifact": "artifacts\\T4_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T5",
+        "timestamp": "2026-10-11T10:05:04.685974+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "c36d54fdc78e35fba1897f1139b7948104cd05cf72a51f87964adde23e837b16",
+        "output_artifact": "artifacts\\T5_classification.json"
+    },
+    {
+        "stage": "classification",
+        "ticket_id": "T6",
+        "timestamp": "2026-10-11T10:05:04.708223+00:00",
+        "provider": "Google",
+        "model": "gemini-3.8-flash",
+        "prompt_hash": "c36d54fdc78e35fba1897f1139b7948104cd05cf72a51f87964adde23e837b16",
+        "output_artifact": "artifacts\\T6_classification.json"
+    }
+]

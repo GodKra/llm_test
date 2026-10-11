@@ -1,0 +1,7 @@
+{
+    "total_tickets": 3374,
+    "category_accuracy": "0.18%",
+    "urgency_accuracy": "0.18%",
+    "auto_triage_count": 0,
+    "human_review_count": 6
+}

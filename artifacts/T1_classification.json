@@ -1,0 +1,68 @@
+[
+  {
+    "ticket_id": "T1",
+    "expected_category": "Account Access",
+    "expected_urgency": "High",
+    "predicted_category": "Account Access",
+    "predicted_urgency": "High",
+    "confidence": 0.95,
+    "route": "human_review",
+    "customer_reply": null,
+    "internal_note": "Ticket was escalated for human review due to routing system flagging. The user is experiencing account lockout with invalid credential errors despite completing password resets. Manual intervention is required to verify account credentials and assist with access restoration."
+  },
+  {
+    "ticket_id": "T2",
+    "expected_category": "Billing & Payments",
+    "expected_urgency": "High",
+    "predicted_category": "Billing & Payments",
+    "predicted_urgency": "High",
+    "confidence": 0.92,
+    "route": "human_review",
+    "customer_reply": null,
+    "internal_note": "Escalated for human review due to a sensitive financial inquiry requiring verification. The customer reports that funds withdrawn two days ago have not yet appeared in their bank account. Manual intervention is needed to trace the transaction status and verify payment processing."
+  },
+  {
+    "ticket_id": "T3",
+    "expected_category": "Technical Support",
+    "expected_urgency": "Medium",
+    "predicted_category": "Technical Support",
+    "predicted_urgency": "Medium",
+    "confidence": 0.9,
+    "route": "human_review",
+    "customer_reply": null,
+    "internal_note": "Escalated for human review per routing guidelines for technical diagnosis. The customer reports mobile site slowdowns and chart freezing when switching tabs on their phone. Manual review is required to gather device diagnostics and check for client-side interface bugs."
+  },
+  {
+    "ticket_id": "T4",
+    "expected_category": "Account Verification",
+    "expected_urgency": "Low",
+    "predicted_category": "Account Verification",
+    "predicted_urgency": "Low",
+    "confidence": 0.94,
+    "route": "human_review",
+    "customer_reply": null,
+    "internal_note": "Routed to human review according to ticket routing rules. The user is inquiring about acceptable verification documents following a recent change of address. A support agent must provide the specific documentation requirements and assist with the manual verification workflow."
+  },
+  {
+    "ticket_id": "T5",
+    "expected_category": "Account Management",
+    "expected_urgency": "Medium",
+    "predicted_category": "Account Management",
+    "predicted_urgency": "Medium",
+    "confidence": 0.96,
+    "route": "human_review",
+    "customer_reply": null,
+    "internal_note": "Escalated for manual review due to a permanent account closure request. The customer explicitly asks to terminate their service and close the account permanently. Manual processing is required to verify user identity and complete account termination protocols."
+  },
+  {
+    "ticket_id": "T6",
+    "expected_category": "Feature Request",
+    "expected_urgency": "Low",
+    "predicted_category": "Feature Request",
+    "predicted_urgency": "Low",
+    "confidence": 0.98,
+    "route": "human_review",
+    "customer_reply": null,
+    "internal_note": "Routed for human review per system routing rules. The customer submitted product feedback requesting the addition of a dark mode theme to the dashboard. An agent needs to review and forward the suggestion to the product management backlog."
+  }
+]

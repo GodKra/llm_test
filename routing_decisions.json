@@ -1,0 +1,80 @@
+[
+    {
+        "id": "T1",
+        "message": "I updated my password yesterday but I still can't log in to my account. The reset email works, but after setting a new password it says invalid credentials.",
+        "expected_category": "Account Access",
+        "expected_urgency": "High",
+        "category": "Account Access",
+        "urgency": "High",
+        "confidence": 0.95,
+        "reasoning_summary": "The customer is completely locked out of their account due to credential errors following a password reset.",
+        "needs_human_review": false,
+        "route": "human_review",
+        "routing_reason": "invalid ticket"
+    },
+    {
+        "id": "T2",
+        "message": "I withdrew funds two days ago and still don't see them in my bank account. Can you check what's happening?",
+        "expected_category": "Billing & Payments",
+        "expected_urgency": "High",
+        "category": "Billing & Payments",
+        "urgency": "High",
+        "confidence": 0.92,
+        "reasoning_summary": "Customer inquiry regarding delayed or missing funds from a withdrawal, which is a time-sensitive financial matter.",
+        "needs_human_review": true,
+        "route": "human_review",
+        "routing_reason": "invalid ticket"
+    },
+    {
+        "id": "T3",
+        "message": "Your mobile site is slow on my phone and the chart sometimes freezes when I switch tabs.",
+        "expected_category": "Technical Support",
+        "expected_urgency": "Medium",
+        "category": "Technical Support",
+        "urgency": "Medium",
+        "confidence": 0.9,
+        "reasoning_summary": "User reports intermittent performance degradation and UI freezing on the mobile web interface.",
+        "needs_human_review": false,
+        "route": "human_review",
+        "routing_reason": "invalid ticket"
+    },
+    {
+        "id": "T4",
+        "message": "What documents do I need to verify my account if my address changed recently?",
+        "expected_category": "Account Verification",
+        "expected_urgency": "Low",
+        "category": "Account Verification",
+        "urgency": "Low",
+        "confidence": 0.94,
+        "reasoning_summary": "General inquiry regarding required KYC/identity verification documentation after an address change.",
+        "needs_human_review": false,
+        "route": "human_review",
+        "routing_reason": "invalid ticket"
+    },
+    {
+        "id": "T5",
+        "message": "Please close my account permanently. I no longer want to use this service.",
+        "expected_category": "Account Management",
+        "expected_urgency": "Medium",
+        "category": "Account Management",
+        "urgency": "Medium",
+        "confidence": 0.96,
+        "reasoning_summary": "Explicit request for permanent account closure and service termination.",
+        "needs_human_review": true,
+        "route": "human_review",
+        "routing_reason": "invalid ticket"
+    },
+    {
+        "id": "T6",
+        "message": "It would be great if dark mode was available in the dashboard.",
+        "expected_category": "Feature Request",
+        "expected_urgency": "Low",
+        "category": "Feature Request",
+        "urgency": "Low",
+        "confidence": 0.98,
+        "reasoning_summary": "Non-blocking customer suggestion proposing a dark mode UI feature.",
+        "needs_human_review": false,
+        "route": "human_review",
+        "routing_reason": "invalid ticket"
+    }
+]
